@@ -19,6 +19,10 @@ File or Folder | Purpose
 - (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
 - Start adding content, for example, a [db/schema.cds](db/schema.cds).
 
+## Screens
+![image](https://user-images.githubusercontent.com/92975562/146253195-34afb0a5-1edf-49f2-ac67-d3745e93a566.png)
+
+![image](https://user-images.githubusercontent.com/92975562/146253503-52a3c4dc-734e-4ba0-a414-8d5fff421ad2.png)
 
 ## Learn More
 
